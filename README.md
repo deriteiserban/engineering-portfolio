@@ -1,4 +1,9 @@
 # engineering-portfolio
+Python:
+1. Color_Detector:
+   -Application that opens the camera and reads the RGB inside a crosshair in the middle of the screen
+2. Epidemic_Simulation:
+   -Application made with pygame and OpenGL that simulates
 | Project | Visual Preview (Cover) | Technical Documentation |
 | :--- | :--- | :--- |
 | **Part 8** | ![Cover](SolidWorks/Part_8/Part_8_Cover.png) | [ View Technical Drawing)](SolidWorks/Part_8/Part_8_Drawing.PDF) |
