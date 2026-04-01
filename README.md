@@ -1,9 +1,11 @@
 # engineering-portfolio
 Python:
 1. Color_Detector:
-   -Application that opens the camera and reads the RGB inside a crosshair in the middle of the screen
-2. Epidemic_Simulation:
-   -Application made with pygame and OpenGL that simulates
+   -Application that opens the camera and reads the RGB inside a crosshair
+ in the middle of the screen.(pip install opencv-python numpy)
+3. Epidemic_Simulation:
+   -Simulates how a disease spreads through a population of 1000 people and draws
+the infection curve live on screen. (pip install pygame PyOpenGL)
    
 | Project | Visual Preview (Cover) | Technical Documentation |
 | :--- | :--- | :--- |
